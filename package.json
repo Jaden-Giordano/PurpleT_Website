@@ -1,0 +1,13 @@
+{
+	"name": "purplet_website",
+	"version": "1.0.0",
+	"author": "Jaden Giordano",
+	"license": "MIT",
+	"scripts": {
+		"postcss": "postcss styles.css --output bundle.css"
+	},
+	"devDependencies": {
+		"postcss-loader": "^2.0.10",
+		"tailwindcss": "^0.4.0"
+	}
+}

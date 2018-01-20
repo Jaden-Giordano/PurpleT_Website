@@ -1,0 +1,16 @@
+@tailwind preflight;
+@tailwind utilities;
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.blocks {
+	display: block;
+}
+
+.side-padded {
+	padding-left: 10px;
+	padding-right: 10px;
+}
