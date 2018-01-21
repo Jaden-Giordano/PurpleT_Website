@@ -4,7 +4,7 @@
 	"author": "Jaden Giordano",
 	"license": "MIT",
 	"scripts": {
-		"postcss": "postcss styles.css --output bundle.css"
+		"postcss": "postcss styles.css --output web/bundle.css"
 	},
 	"devDependencies": {
 		"postcss-loader": "^2.0.10",

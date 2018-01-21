@@ -14,3 +14,27 @@ body {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+.bottom {
+	position: absolute;
+	
+	width: 100%;
+	
+	bottom: 0;
+	
+	padding: 5px 0px;
+}
+
+.top {
+	position: absolute;
+	
+	width: 100%;
+	
+	top: 0;
+	
+	padding: 5px 0px;
+}
+
+.flip {
+	transform: rotate(180deg);
+}
